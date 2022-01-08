@@ -1,3 +1,5 @@
+#깃허브 공부!!
+
 import random
 from tkinter import *
 import tkinter.messagebox as msgbox
